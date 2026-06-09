@@ -16,11 +16,11 @@ Test your knowledge through an engaging multiple-choice quiz experience with rea
 
 ## 📖 Overview
 
-Quiz App is a modern desktop-based quiz application developed using **Python** and **Tkinter**. The application provides users with an interactive platform to test their knowledge through multiple-choice questions while tracking progress in real time.
+Quiz App is a modern desktop-based quiz application developed using **Python** and **Tkinter**. The application provides users with an interactive platform to assess their knowledge through multiple-choice questions in a visually appealing environment.
 
-The project features a clean dark-themed interface, dynamic progress tracking, score evaluation, and pass/fail assessment. It demonstrates the implementation of GUI development, event handling, and object-oriented programming concepts in Python.
+The project features a clean dark-themed interface, dynamic progress tracking, automatic score calculation, and pass/fail evaluation. It demonstrates GUI development, event handling, and object-oriented programming concepts in Python.
 
-This application is suitable for students, beginners, and anyone interested in learning Python GUI development through a practical project.
+Whether you're a beginner learning Python or someone looking to practice programming concepts, this application offers a fun and effective way to test your knowledge.
 
 ---
 
@@ -29,36 +29,36 @@ This application is suitable for students, beginners, and anyone interested in l
 ### 🎨 Modern User Interface
 
 - Clean and professional dark-themed design
-- User-friendly and responsive layout
-- Attractive buttons and navigation controls
-- Easy-to-use quiz interface
+- User-friendly navigation
+- Responsive layout
+- Interactive buttons and controls
 
 ### 📚 Quiz Functionality
 
 - Multiple Choice Questions (MCQs)
-- Single-answer selection system
+- Single-answer selection
 - Interactive question navigation
-- Input validation before proceeding
+- Input validation before moving forward
 
 ### 📊 Progress Tracking
 
-- Real-time progress indicator
 - Dynamic progress bar
-- Question number tracking
+- Real-time quiz progress updates
+- Current question indicator
 
 ### 🏆 Performance Evaluation
 
 - Automatic score calculation
 - Percentage-based performance analysis
 - Pass/Fail determination
-- Instant result display
+- Instant results display
 
 ### 🔄 User Experience
 
-- Welcome screen with quiz details
-- Restart quiz functionality
+- Welcome screen with assessment details
+- Quiz restart functionality
 - Smooth screen transitions
-- Error handling and warning prompts
+- Warning messages for unanswered questions
 
 ---
 
@@ -83,7 +83,7 @@ Quiz-App/
 
 ### 🏠 Home Screen
 
-The welcome screen introduces users to the quiz and displays assessment information.
+The welcome screen introduces users to the assessment and displays quiz information.
 
 ![Home Screen](Screenshots/Screenshot-1.png)
 
@@ -91,17 +91,17 @@ The welcome screen introduces users to the quiz and displays assessment informat
 
 ### ❓ Quiz Interface
 
-Users answer multiple-choice questions while tracking their progress through the assessment.
+Users answer multiple-choice questions while tracking their progress.
 
 ![Quiz Interface](Screenshots/Screenshot-2.png)
 
 ---
 
-### 📊 Result Screen
+### 📊 Results Screen
 
-After completing the quiz, users receive their final score, percentage, and pass/fail status.
+After completing the quiz, users receive their final score and performance summary.
 
-![Result Screen](Screenshots/Screenshot-3.png)
+![Results Screen](Screenshots/Screenshot-3.png)
 
 ---
 
@@ -114,7 +114,7 @@ Before running the application, ensure you have:
 - Python 3.x installed
 - Tkinter (included with most Python installations)
 
-Check your Python version:
+Verify installation:
 
 ```bash
 python --version
@@ -124,19 +124,19 @@ python --version
 
 ## ⚙️ Installation
 
-### 1️⃣ Clone the Repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/SajidAli7076/Quiz-App.git
 ```
 
-### 2️⃣ Navigate to the Project Directory
+### Navigate to the Project Directory
 
 ```bash
 cd Quiz-App
 ```
 
-### 3️⃣ Run the Application
+### Run the Application
 
 ```bash
 python app.py
@@ -149,11 +149,11 @@ The application window will launch automatically.
 ## 🎯 How It Works
 
 1. Launch the application.
-2. Review the quiz information on the welcome screen.
+2. Review the quiz information.
 3. Click **Launch Challenge 🚀**.
 4. Read each question carefully.
 5. Select the correct answer.
-6. Proceed through all questions.
+6. Navigate through all questions.
 7. Submit the quiz.
 8. View your final score and performance report.
 
@@ -182,7 +182,7 @@ The current version contains questions related to Python programming concepts, i
 
 ## 📊 Assessment System
 
-The application automatically calculates the user's performance.
+The application automatically evaluates user performance.
 
 ### Score Calculation
 
@@ -199,7 +199,7 @@ percentage = (score / total_questions) * 100
 
 ### Pass Criteria
 
-A score of **70% or above** is required to pass.
+A score of **70% or above** is required to pass the assessment.
 
 | Correct Answers | Percentage | Result |
 |----------------|------------|---------|
@@ -229,7 +229,7 @@ This project showcases:
 
 - Object-Oriented Programming (OOP)
 - GUI Development with Tkinter
-- Event-Driven Programming
+- Event Handling
 - State Management
 - User Interface Design
 - User Experience Design
@@ -247,7 +247,7 @@ Potential improvements include:
 - Question Randomization
 - User Login System
 - Database Integration
-- Leaderboard
+- Leaderboard System
 - Result History Tracking
 - Export Results Feature
 - Sound Effects and Animations
@@ -256,8 +256,7 @@ Potential improvements include:
 
 ## 🌐 Repository Link
 
-GitHub Repository:
-
+**GitHub Repository:**  
 https://github.com/SajidAli7076/Quiz-App
 
 ---
@@ -266,9 +265,10 @@ https://github.com/SajidAli7076/Quiz-App
 
 Check out the LinkedIn post featuring this project:
 
-👉 Add your Quiz App LinkedIn post link here
+**🔗 LinkedIn Post:**  
+https://www.linkedin.com/posts/sajid-ali2005_quizapp-python-tkinter-ugcPost-7470084841032839168-g765/
 
-Feel free to connect, engage with the post, and share your feedback.
+Feel free to connect with me and share your feedback!
 
 ---
 
